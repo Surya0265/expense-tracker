@@ -1,0 +1,18 @@
+{
+  "name": "expense-tracker-backend",
+  "version": "1.0.0",
+  "description": "Backend for Expense Tracker",
+  "main": "signup.js",
+  "scripts": {
+    "start": "node signup.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
